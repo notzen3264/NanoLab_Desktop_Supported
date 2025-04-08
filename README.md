@@ -1,4 +1,4 @@
-# NanoLab: A Simulation Framework for Emergent Cellular Dynamics
+# NanoLab: A Simulation Framework for Emergent Behaviour
 
 **Edward**  
 *NanoLab_Desktop_Supported*  
